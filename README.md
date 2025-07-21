@@ -4,7 +4,7 @@ Dette er backend- og administrasjons-panelet for Vegshop e-handelsplattformen. D
 
 **Prosjektstatus:** Dette prosjektet er et uferdig, men omfattende, selvstudium i moderne webutvikling. Kjernefunksjonaliteten for å administrere en butikk er implementert.
 
-**Se den tilhørende butikk-frontenden her:** [github.com/dittnavn/vegshop-butikk-front](https://github.com/martingit2/vegshop-butikk-front)
+**Se den tilhørende butikk-frontenden her:** [https://github.com/martingit2/vegshop-butikk-front](https://github.com/martingit2/vegshop-butikk-front)
 
 ---
 
